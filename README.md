@@ -1,1 +1,1 @@
-# Duiabetes-Prediction
+# Diabetes-Prediction
